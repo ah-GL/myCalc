@@ -1,1 +1,3 @@
-Test mfirst commit. 
+Test mfirst commit.
+
+Now it's the time for a second commit. 
